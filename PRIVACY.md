@@ -1,8 +1,8 @@
 # Smart Autofill Privacy Policy
 
-**Effective date:** 5 November 2026
+**Effective date:** 18 November 2026
 
-Smart Autofill is a Chrome extension that fills web forms with generated test data. It is published by Durga Dileep Dunaboyina, Visakhapatnam, India.
+Smart Autofill is a browser extension that fills web forms with generated test data. It is published by Durga Dileep Dunaboyina, Visakhapatnam, India.
 
 **In short:** Smart Autofill works entirely inside your browser. It has no servers, accounts, analytics or tracking, and nothing it reads or stores is sent to us or anyone else.
 
@@ -25,8 +25,9 @@ These items are kept in your browser's local extension storage:
 - Your settings, such as country, email domain and date format
 - Any values you choose to enter, such as names, a company, a test password pattern and custom rules
 - Your saved test profiles
+- Usage statistics shown on the options page: how many forms and fields were filled, counts by field type and test data mode, an estimate of time saved, and daily totals for the last 90 days. These are numbers only, with no field values and no page addresses. You can reset them at any time.
 
-They stay on your device and are not synced to your Google account. Avoid entering real personal information or real passwords in these settings, because they are not encrypted by the extension.
+They stay on your device and are not synced to any account. Avoid entering real personal information or real passwords in these settings, because they are not encrypted by the extension.
 
 ## Generated data
 
@@ -58,7 +59,7 @@ Removing the extension deletes its settings and test profiles from your browser.
 
 ## Limited Use
 
-The use of information received by Smart Autofill complies with the Chrome Web Store User Data Policy, including the Limited Use requirements.
+For the version distributed through the Chrome Web Store, the use of information received by Smart Autofill complies with the Chrome Web Store User Data Policy, including the Limited Use requirements.
 
 ## Changes to this policy
 
